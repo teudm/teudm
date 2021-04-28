@@ -7,9 +7,9 @@
 
 <br><br>
 
-> 🔭 I’m currently working on [Zoo Functions - Trybe Project](https://github.com/tryber/sd-010-a-project-zoo-functions)
+> 🔭 I’m currently working on [Movie Cards Library - Trybe Project](https://github.com/tryber/sd-010-a-project-movie-cards-library)
 >
-> 🌱 I’m currently learning **JS Vanilla, HTML and CSS**
+> 🌱 I’m currently learning **React**
 >
 > 👨‍💻 All of my projects are available at [teudm.github.io](teudm.github.io)
 >

@@ -6,8 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teudm" alt="teudm" /></a> </p>
 
 <br><br>
-
-> 🔭 I’m currently working on [Movie Cards Library - Trybe Project](https://github.com/tryber/sd-010-a-project-movie-cards-library)
 >
 > 🌱 I’m currently learning **React**
 >

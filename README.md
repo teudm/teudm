@@ -15,13 +15,10 @@
 >
 > 📫 How to reach me **teud@outlook.com.br**
 >
-> 📄 Know about my experiences [linkedin.com/in/teudm](linkedin.com/in/teudm)
->
 > ⚡ Fun fact **I'm a cat lover/rescuer**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mateudmartins" target="blank"><img align="center" src="https://icongr.am/devicon/twitter-original.svg?size=50&color=8a2be2" alt="mateudmartins" /></a>
 <a href="https://linkedin.com/in/teudm" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="https://linkedin.com/in/teudm" /></a>
 <a href="https://fb.com/fb.com/teudmartins" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-plain.svg?size=50&color=8a2be2" alt="fb.com/teudmartins" /></a>
 </p>

@@ -20,7 +20,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/teudm" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="https://linkedin.com/in/teudm" /></a>
-<a href="https://fb.com/fb.com/teudmartins" target="blank"><img align="center" src="https://icongr.am/devicon/facebook-plain.svg?size=50&color=8a2be2" alt="fb.com/teudmartins" /></a>
+<a href="https://fb.com/fb.com/teudmartins" target="blank"><img align="center" src="https://icongr.am/fontawesome/facebook-official.svg?size=55&color=8a2be2" alt="fb.com/teudmartins" /></a>
 </p>
 
 <p align="center"> <a href="https://twitter.com/mateudmartins" target="blank"><img src="https://img.shields.io/twitter/follow/mateudmartins?logo=twitter&style=for-the-badge&color=blueviolet&label=FOLLOW+ME" alt="mateudmartins" /></a> </p>

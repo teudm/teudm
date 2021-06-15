@@ -29,11 +29,16 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+  <img src="https://icongr.am/simple/linux.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=50&color=8a2be2" />
   <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=8a2be2" />
+  <br>
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=50&color=8a2be2" />
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=8a2be2" />
-  <img src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/material/react.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/simple/redux.svg?size=50&color=8a2be2" />
+  <img src="https://icongr.am/simple/jest.svg?size=50&color=8a2be2" />
+  
 </p>
 
 <br><br>

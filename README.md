@@ -9,7 +9,7 @@
 >
 > 🌱 I’m currently learning **React**
 >
-> 👨‍💻 All of my projects are available at [My portfolio](teudm.github.io)
+> 👨‍💻 All of my projects are available at [My portfolio](http://teudm.github.io/portfolio)
 >
 > 💬 Ask me about **CSS and JS**
 >

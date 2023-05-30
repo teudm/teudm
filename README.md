@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateus Martins</h1>
-<h3 align="center">An (almost) developer from Brazil | Tryber</h3>
+<h3 align="center">A front-end developer from Brazil | Tryber</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=teudm&label=Profile%20views&color=blueviolet&style=for-the-badge&label=VISITOR+NUMBER:" alt="teudm" /></p>
 

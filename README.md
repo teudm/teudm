@@ -5,22 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teudm&row=2&column=2&theme=dracula&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="teudm" /></a> </p>
 
-<br><br>
->
-> 🌱 I’m currently learning **React**
->
-> 👨‍💻 All of my projects are available at [My portfolio](http://teudm.github.io/portfolio)
->
-> 💬 Ask me about **CSS and JS**
->
-> 📫 How to reach me **teud@outlook.com.br**
->
-> ⚡ Fun fact **I'm a cat lover/rescuer**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/teudm" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="https://linkedin.com/in/teudm" /></a>
-<a href="https://fb.com/fb.com/teudmartins" target="blank"><img align="center" src="https://icongr.am/fontawesome/facebook-official.svg?size=55&color=8a2be2" alt="fb.com/teudmartins" /></a>
+<a href="https://linkedin.com/in/teudm" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="LinkedIn" /></a>
+<a href="https://wa.me/5521991401164" target="blank"><img align="center" src="https://icongr.am/fontawesome//whatsapp.svg?size=55&color=8a2be2" alt="Whatsapp" /></a>
 </p>
 
 <p align="center"> <a href="https://twitter.com/mateudmartins" target="blank"><img src="https://img.shields.io/twitter/follow/mateudmartins?logo=twitter&style=for-the-badge&color=blueviolet&label=FOLLOW+ME" alt="mateudmartins" /></a> </p>

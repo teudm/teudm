@@ -12,8 +12,6 @@
 <a href="https://wa.me/5521991401164" target="blank"><img align="center" src="https://icongr.am/fontawesome//whatsapp.svg?size=55&color=8a2be2" alt="Whatsapp" /></a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/mateudmartins" target="blank"><img src="https://img.shields.io/twitter/follow/mateudmartins?logo=twitter&style=for-the-badge&color=blueviolet&label=FOLLOW+ME" alt="mateudmartins" /></a> </p>
-
 ---------
 
 <h3 align="center">Languages and Tools:</h3>

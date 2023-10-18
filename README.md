@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/teudm" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/teudm/?locale=en_US" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-plain.svg?size=50&color=8a2be2" alt="LinkedIn" /></a>
 <a href="https://wa.me/5521991401164" target="blank"><img align="center" src="https://icongr.am/fontawesome//whatsapp.svg?size=55&color=8a2be2" alt="Whatsapp" /></a>
 </p>
 
